@@ -80,7 +80,7 @@ function triggerAlarm() {
 		new Notification(`Alarm - ${headlineElement.innerText}`, {
 			requireInteraction: true,
 			body: `Kurs hat ${alarm} erreicht.`,
-			icon: long ? "https://raw.githack.com/T3rm1/godmodetrader-alarm/master/icons/long.png" : "https://raw.githack.com/T3rm1/godmodetrader-alarm/master/icons/short.png"
+			icon: long ? "https://rawcdn.githack.com/T3rm1/godmodetrader-alarm/fc0223bee7da5c5b123458a20c95ad69cdd8d157/icons/long.png" : "https://rawcdn.githack.com/T3rm1/godmodetrader-alarm/fc0223bee7da5c5b123458a20c95ad69cdd8d157/icons/short.png"
 		});		
 	}
 }
