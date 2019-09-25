@@ -15,7 +15,7 @@ Das Bookmarklet fügt nebem dem Wertpapiernamen ein Eingabefeld hinzu. Über den
        document.head.appendChild(gmScriptLoader);
 	   void 0;
 
-3. Eine Seite mit Chart auf GodmodeTrader besuchen und das Lesezeichen anklicken. Bei erster Verwendung fragt Sie der Browser nach der Erlaubnis Benachrichtigungen anzuzeigen. Dies muss akzeptiert werden.
+3. Eine Seite mit Chart auf GodmodeTrader besuchen und das Lesezeichen anklicken. Bei erster Verwendung fragt der Browser um Erlaubnis Benachrichtigungen anzuzeigen. Dies muss akzeptiert werden.
 
 # Hinweise
 Eine Benachrichtigung kann nur erfolgen, wenn die Seite im Vordergrund oder Hintergrund im Browser geöffnet bleibt.
