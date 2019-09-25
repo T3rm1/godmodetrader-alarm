@@ -9,10 +9,11 @@ Das Bookmarklet fügt nebem dem Wertpapiernamen ein Eingabefeld hinzu. Über den
 1. Neues Lesezeichen anlegen. Am besten in die Symbolleiste.
 2. Im Feld für die Adresse folgendes eintragen:
 
-        javascript:
-        var gmScriptLoader = document.createElement("script");
-        gmScriptLoader.src = "https://raw.githubusercontent.com/T3rm1/godmodetrader-alarm/master/alarm.js";
-        document.head.appendChild(gmScriptLoader);
+       javascript:
+       var gmScriptLoader = document.createElement("script");
+       gmScriptLoader.src = "https://raw.githack.com/T3rm1/godmodetrader-alarm/master/alarm.js";
+       document.head.appendChild(gmScriptLoader);
+	   void 0;
 
 3. Eine Seite mit Chart auf GodmodeTrader besuchen und das Lesezeichen anklicken. Bei erster Verwendung fragt Sie der Browser nach der Erlaubnis Benachrichtigungen anzuzeigen. Dies muss akzeptiert werden.
 
